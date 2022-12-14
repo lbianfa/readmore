@@ -1,1 +1,15 @@
-Esto es un ejercicio en clase del curso de maquetación web de Sapiencia UPB
+# READMORE
+## Sapiencia UPB
+
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+Author: Maquetación Web
+
+## Features
+
+- Abreviar parrafo con botón
+
+Forma de instalar:
+```sh
+npm install readmore
+```
