@@ -3,7 +3,7 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-Author: Maquetación Web
+Author: Maquetación Web 2
 
 ## Features
 
